@@ -7,7 +7,7 @@
 </div>
 <p>As I started working, I realized that my true passion lay in the tech industry. I love learning and growing, so I decided to pivot from customer service to web development. I find coding websites and web applications endlessly satisfying, and I'm always up for a good challenge. Even though I switched careers, the communication and problem-solving skills I developed in customer service have been invaluable to me as a developer. I'm always eager to take on new tasks and go above and beyond to deliver the best results. Thanks for taking the time to get to know me, and I'm excited for the chance to work with you!</p>
 
-<p align="center">![openWork](https://img.shields.io/badge/Open%20to-Work-green)</p>
+![openWork](https://img.shields.io/badge/Open%20to-Work-green)
 </br>
 - 🔭 I’m currently working on my portfolio !
 
