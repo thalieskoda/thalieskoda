@@ -11,7 +11,7 @@
 </br>
 - 🔭 I’m currently working on my portfolio !
 
-- 🌱 I’m currently learning React in more depth and trying animation 
+- 🌱 I’m currently learning React Native
 
 - 📫 Don't hesitate to reach out : thalieskoda@hotmail.com - 438-403-4904
 </br>
