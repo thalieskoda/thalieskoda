@@ -9,7 +9,7 @@
 
 ![openWork](https://img.shields.io/badge/Open%20to-Work-green)
 </br>
-- 🔭 I’m currently working on my <a href="thalieskoda-git-main-thalieskoda.vercel.app" />portfolio !
+- 🔭 I’m currently working on my <a href="https://thalieskoda-git-main-thalieskoda.vercel.app" />portfolio !
 
 - 🌱 I’m currently learning React Native
 
